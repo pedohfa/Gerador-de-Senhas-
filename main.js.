@@ -25,7 +25,7 @@ function aumentaTamanho() {
 if (tamanhoSenha < 20) {
 a. // tamanhoSenha = tamanhoSenha+1;
 b. tamanhoSenha++;
-22)}
+}
 numeroSenha.textContent = tamanhoSenha;
 geraSenha();
 }
